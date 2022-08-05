@@ -146,10 +146,10 @@ var CRUMINA = {};
           number_size: 0.36,
           text_size: 0.16,
           time: {
-            Days: { color: "#ffba00" },
-            Hours: { color: "#ffba00" },
-            Minutes: { color: "#ffba00" },
-            Seconds: { color: "#ffba00" },
+            Days: { color: "#00abff" },
+            Hours: { color: "#00abff" },
+            Minutes: { color: "#00abff" },
+            Seconds: { color: "#00abff" },
           },
         });
       }),
@@ -511,7 +511,7 @@ var CRUMINA = {};
         i = [
           { name: "MarketCap", color: "#3a3e48" },
           { name: "Ethereum", color: "#2a2e36" },
-          { name: "WOOX", color: "#ffba00" },
+          { name: "WOOX", color: "#00abff" },
         ];
       (CRUMINA.elementChart = function () {
         setTimeout(function () {
